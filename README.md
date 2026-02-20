@@ -137,7 +137,7 @@ Berkeley Earth — Global Land Temperatures Dataset
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 [![GitHub](https://img.shields.io/badge/GitHub-JeissonS02-181717?style=for-the-badge&logo=github)](https://github.com/JeissonS02)
 [![GitHub](https://img.shields.io/badge/GitHub-SebastianAlbarracinSilva-181717?style=for-the-badge&logo=github)](https://github.com/SebastianAlbarracinSilva)
